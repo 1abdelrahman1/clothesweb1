@@ -1,0 +1,231 @@
+
+#block {
+    margin-top: 200px;
+    margin-left: 38%;
+    width: 400px;
+    height: 500px;
+    border: 2px rgb(249, 249, 249) solid;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px;
+    opacity: 0.9;
+    
+}
+#block1 {
+    width: 400px;
+    height: 500px;
+    border: 0px ;
+    background-color: rgb(161, 159, 159);
+    position: relative;
+    margin-top: -26.5%;
+    margin-left: 18%;
+}
+body {
+    align-items: center;
+
+    background-color: rgb(226, 226, 226);
+    
+    
+    
+}
+.login {
+    width: 200px;
+    text-transform: uppercase;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 40%;
+    margin-top: -400px;
+    padding: 20px 20px;
+    padding-top: 10px;
+}
+.frg {
+    font-size: 10px;
+    margin-top: 250px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    left: 95%;
+    
+}
+.email {
+    margin-bottom: 30px;
+    width: 300px;
+    
+    height: 50px;
+    border: 0;
+    outline: none;
+    background-color: transparent;
+    color: rgb(47, 47, 47);
+    border: 1px grey solid;
+    border-radius: 30px;
+    font-size: 20px;
+    
+    text-align: center;
+}
+.password {
+    font-size: 20px;
+    border: 0;
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    width: 300px;
+    margin-bottom: 10px;
+    border: 1px grey solid;
+    outline: none;
+    background-color: transparent;
+    color: rgb(47, 47, 47);
+}
+.log {
+    width: 300px;
+    height: 50px;
+    display: block;
+    Text-align: center;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 0;
+    background-color: blanchedalmond;
+    color: rgb(53, 53, 53) ;
+    border-radius: 25px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    left: -1%;
+    position: relative;
+    animation: all ease-out 1s;
+}
+.log:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+.log:active {
+    opacity: 0.5;
+}
+.sign {
+    width: 100px;
+    height: 50px;
+    display: block;
+    Text-align: center;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px #fff solid;
+    background-color: transparent;
+    color: cornflowerblue;
+    border-radius: 25px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 47%;
+    position: relative;
+    transition: background-color 0.7s;
+}
+.sign:hover {
+    cursor: pointer;
+    background-color: #fff;
+}
+.n {
+    text-decoration: none;
+}
+.lol {
+    display: block;
+    position: relative;
+    left: 10%;
+    
+}
+.blocks {
+    border-radius: 400px;
+}
+.signup {
+    width: 300px;
+    height: 50px;
+    display: block;
+    Text-align: center;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 0;
+    background-color: blanchedalmond;
+    color: rgb(53, 53, 53) ;
+    border-radius: 25px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    left: -1%;
+    position: relative;
+    animation: all ease-out 1s;
+
+}
+.secondname {
+    font-size: 20px;
+    border: 0;
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    width: 300px;
+    margin-bottom: 10px;
+    border: 1px rgb(255, 255, 255) solid;
+    outline: none;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+
+}
+.firstname {
+    font-size: 20px;
+    border: 0;
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    width: 300px;
+    margin-bottom: 10px;
+    border: 1px rgb(255, 255, 255) solid;
+    outline: none;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+}
+.signup1 {
+    width: 500px;
+    text-transform: uppercase;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 30%;
+    margin-top: -275px;
+    padding: 20px 20px;
+    padding-top: 10px;
+
+}
+.email1 {
+    margin-bottom: 10px;
+    width: 300px;
+    
+    height: 50px;
+    border: 0;
+    outline: none;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    border: 1px rgb(255, 255, 255) solid;
+    border-radius: 30px;
+    font-size: 20px;
+    
+    text-align: center;
+}
+.password1 {
+    font-size: 20px;
+    border: 0;
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    width: 300px;
+    margin-bottom: 10px;
+    border: 1px rgb(255, 255, 255) solid;
+    outline: none;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+
+}
